@@ -1,0 +1,14 @@
+.nav .nav-item .nav-link:focus,
+.nav .nav-item .nav-link:hover {
+    color: #000000;
+}
+
+.nav {
+    margin: 20px;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.home-bottom {
+    margin: 30px;
+}
