@@ -12,3 +12,20 @@
 .home-bottom {
     margin: 30px;
 }
+
+.btn-light {
+    margin: 20px;
+    font-size: 20px;
+}
+
+.card {
+    margin: 20px;
+}
+
+.card-text {
+    color: #000000;
+}
+
+.card-text:hover {
+    text-decoration: none;
+}
