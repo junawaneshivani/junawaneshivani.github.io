@@ -29,3 +29,7 @@
 .card-text:hover {
     text-decoration: none;
 }
+
+.btn-outline-info {
+    margin: 5px;
+}
