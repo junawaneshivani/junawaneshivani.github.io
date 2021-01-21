@@ -38,10 +38,12 @@
 }
 
 .home img {
-  width: 148px;
+  width: 100%;
   background-color: #e7e7ef;
-  padding: 5px;
+  padding: 2px;
   margin-bottom: 10px;
+  object-fit:scale-down;
+  object-position:50% 50%;
 }
 
 .home .greeting {
