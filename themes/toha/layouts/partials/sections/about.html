@@ -12,10 +12,10 @@
   <div class="row pt-sm-2 pt-md-4 align-self-center">
     <!-- summary -->
     <div class="col-sm-6">
-      <h3 class="p-1">{{ $author.name }}</h3>
+      <!-- <h3 class="p-1">{{ $author.name }}</h3> -->
       {{ if .designation }}
       <h5 class="p-1">
-        {{ .designation }}
+        <b> {{ .designation }} </b>
         {{ if .company }}
         {{ i18n "at"}} <a href="{{ .company.url }}">{{ .company.name }}</a>
         {{ end }}

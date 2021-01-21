@@ -1,3 +1,4 @@
+#baseURL: http://localhost:1313/
 baseURL: http://junawaneshivani.github.io/
 #languageCode: en-us
 title: "Shivani Junawane"
@@ -37,7 +38,7 @@ params:
   #   favicon: /images/site/background.jpg
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/junawaneshivani/junawaneshivani.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true

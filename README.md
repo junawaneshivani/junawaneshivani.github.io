@@ -1,9 +1,12 @@
-### Steps
+### Test
 ```
-choco install hugo -confirm
-hugo new site portfolio
+hugo server --theme="toha" --buildDrafts
+```
+
+### Deploy
+```
+./deploy.sh
 ```
 
 #### Reference:
 - https://github.com/hugo-toha/toha
-- https://github.com/uicardiodev/hugo-uilite
