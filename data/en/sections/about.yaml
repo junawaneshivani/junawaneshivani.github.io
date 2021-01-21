@@ -50,22 +50,22 @@ socialLinks:
 softSkills:
 - name: Leadership
   percentage: 80
-  color: green
+  color: sky
 - name: Team Work
   percentage: 90
-  color: green
+  color: sky
 - name: Communication
   percentage: 70
-  color: green
+  color: sky
 - name: Hard Working
   percentage: 80
-  color: green
+  color: sky
 - name: Fast Learner
   percentage: 95
-  color: green
+  color: sky
 - name: Problem Solving
   percentage: 90
-  color: green
+  color: sky
 
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
