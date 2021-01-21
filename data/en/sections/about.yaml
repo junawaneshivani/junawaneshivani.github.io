@@ -50,7 +50,7 @@ socialLinks:
 softSkills:
 - name: Leadership
   percentage: 80
-  color: sky
+  color: sky 
 - name: Team Work
   percentage: 90
   color: sky
